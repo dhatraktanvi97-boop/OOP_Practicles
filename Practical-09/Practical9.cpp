@@ -53,7 +53,7 @@ cout << "------------------------" << endl;
 };
 int main()
 {
-Car car("MH12AB1234", "Toyota", 5);
+Car car("MH34AB1234", "Toyota", 5);
 Truck truck("MH14CD5678", "Tata", 12.5);
 car.display();
 truck.display();
